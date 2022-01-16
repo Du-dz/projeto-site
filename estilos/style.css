@@ -10,7 +10,7 @@ body {
 
 main {
     background-color: rgb(231, 192, 133);
-    width: 500px;
+    width: 560px;
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgb(54, 49, 49);
@@ -18,5 +18,11 @@ main {
 
 img.lado {
     float:right ;
+    box-shadow: 3px 3px 5px rgb(56, 54, 54);
 
 }
+
+h1{
+    font-size: 25px;
+}
+
